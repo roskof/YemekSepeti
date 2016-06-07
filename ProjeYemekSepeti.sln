@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeYemekSepeti", "ProjeYemekSepeti\ProjeYemekSepeti.csproj", "{C26049F8-4EF3-45B6-95FC-855978AA55AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeYemekSepeti.Tests", "ProjeYemekSepeti.Tests\ProjeYemekSepeti.Tests.csproj", "{FF21959F-001F-4BFD-8BB7-812C76DD8C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Domain", "Core.Domain\Core.Domain.csproj", "{CF35A4D1-C846-4C90-9BCF-B09F0EAABC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Application", "Core.Application\Core.Application.csproj", "{524149AA-AE4B-46D5-B7FF-B1A3C9F0AA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.MsSQL", "Infrastructure.MsSQL\Infrastructure.MsSQL.csproj", "{0926C42A-4475-4C4E-8002-38FDC472F7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf.YemekSepeti", "Wcf.YemekSepeti\Wcf.YemekSepeti.csproj", "{6928332B-3D32-4091-98E9-91AF943A6457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.YemekSepeti", "WebApi.YemekSepeti\WebApi.YemekSepeti.csproj", "{9163E3E4-843A-49B9-A929-88358C426DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26049F8-4EF3-45B6-95FC-855978AA55AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26049F8-4EF3-45B6-95FC-855978AA55AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26049F8-4EF3-45B6-95FC-855978AA55AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26049F8-4EF3-45B6-95FC-855978AA55AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF21959F-001F-4BFD-8BB7-812C76DD8C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF21959F-001F-4BFD-8BB7-812C76DD8C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF21959F-001F-4BFD-8BB7-812C76DD8C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF21959F-001F-4BFD-8BB7-812C76DD8C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF35A4D1-C846-4C90-9BCF-B09F0EAABC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF35A4D1-C846-4C90-9BCF-B09F0EAABC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF35A4D1-C846-4C90-9BCF-B09F0EAABC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF35A4D1-C846-4C90-9BCF-B09F0EAABC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524149AA-AE4B-46D5-B7FF-B1A3C9F0AA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524149AA-AE4B-46D5-B7FF-B1A3C9F0AA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524149AA-AE4B-46D5-B7FF-B1A3C9F0AA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524149AA-AE4B-46D5-B7FF-B1A3C9F0AA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0926C42A-4475-4C4E-8002-38FDC472F7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0926C42A-4475-4C4E-8002-38FDC472F7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0926C42A-4475-4C4E-8002-38FDC472F7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0926C42A-4475-4C4E-8002-38FDC472F7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6928332B-3D32-4091-98E9-91AF943A6457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6928332B-3D32-4091-98E9-91AF943A6457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6928332B-3D32-4091-98E9-91AF943A6457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6928332B-3D32-4091-98E9-91AF943A6457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9163E3E4-843A-49B9-A929-88358C426DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9163E3E4-843A-49B9-A929-88358C426DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9163E3E4-843A-49B9-A929-88358C426DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9163E3E4-843A-49B9-A929-88358C426DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

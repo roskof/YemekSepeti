@@ -1,0 +1,6 @@
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\bin\Wcf.YemekSepeti.dll.config
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\bin\Wcf.YemekSepeti.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\bin\Wcf.YemekSepeti.pdb
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\obj\Debug\Wcf.YemekSepeti.csprojResolveAssemblyReference.cache
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\obj\Debug\Wcf.YemekSepeti.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Wcf.YemekSepeti\obj\Debug\Wcf.YemekSepeti.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Core.Domain\bin\Debug\Core.Domain.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Core.Domain\bin\Debug\Core.Domain.pdb
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Core.Domain\obj\Debug\Core.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Core.Domain\obj\Debug\Core.Domain.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Core.Domain\obj\Debug\Core.Domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\Infrastructure.MsSQL.dll.config
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\Infrastructure.MsSQL.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\Infrastructure.MsSQL.pdb
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\Core.Domain.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\EntityFramework.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\Core.Domain.pdb
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\EntityFramework.xml
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.csprojResolveAssemblyReference.cache
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.dll
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.pdb
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.Migrations.DbSetup.resources
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.csproj.GenerateResource.Cache
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.Migrations.MealAdjust.resources
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.Migrations.adjustTest.resources
+C:\Users\Gürkan\Desktop\Karalamasyon\ProjeYemekSepeti\Infrastructure.MsSQL\obj\Debug\Infrastructure.MsSQL.Migrations.sale.resources
